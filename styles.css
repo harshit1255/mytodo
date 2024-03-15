@@ -1,0 +1,19 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height: 100vh;
+    background-color: black;
+}
+li
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: black
+}
+ul
+{
+    background-color: white;
+}
